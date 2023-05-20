@@ -14,7 +14,7 @@
 - Ex: `<h3>This is the content.</h3>`
 
 ### Q.4 Build Your Resume using HTML only (5 Marks)
-
+- https://github.com/Bhawani-K/PlacementAssignment_Bhawani-K/blob/master/1_HTML/resume.html
 
 ### Q.5 Write Html code so that it looks like the given image Link (5 Marks)
 
@@ -25,7 +25,7 @@
 - HTML5, provides audio / video support.
 
 ### Q.7 Create a simple Music player using html only (5 Marks)
-
+- https://github.com/Bhawani-K/PlacementAssignment_Bhawani-K/blob/master/1_HTML/musicPlayer.html
 ### Q.8 What is the difference between `<figure>` tag and `<img>` tag? (1 Marks)
 - `<figure>` used to add self-contained content like illustrations, photos or codes listing in a document.
 - `<img>`used to add image or set the background in the webpage / website.
