@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    font-family: 'Chakra Petch', sans-serif;
+}
+table{
+    margin: auto;
+}
+td{
+    border: 1px solid;
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.blank{
+    border: none;
+}
+.red{
+    background-color: #fc6b6b;
+}
+.ylw{
+    background-color: #fffd8a;
+}
+.grn{
+    background-color: #6cff85;
+}
+.blu{
+    background-color: #91c4fb;
+}
+.exp{
+    border: none;
+    height: 3px;
+    width: 3px;
+    padding: 3px;
+
+}
+center{
+    padding: 15px;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
