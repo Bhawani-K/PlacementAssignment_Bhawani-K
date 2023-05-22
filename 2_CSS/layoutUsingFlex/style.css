@@ -1,0 +1,37 @@
+*{
+    background-color: #c4ebf9;
+    margin: 1%;
+}
+header,footer {
+    background-color: #02bfb1;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+aside{
+    width: 30vw;
+    background-color: #6edb6e;
+    text-align: center;
+    display: block;
+    padding: 15px;
+}
+article{
+    width: 60vw;
+    background-color: #fbb04c;
+    padding: 20px;
+}
+.image{
+    background-color: #fbb04c;
+}
+img{
+    height: 150px;
+}
+footer{
+    padding: 10px;
+}
