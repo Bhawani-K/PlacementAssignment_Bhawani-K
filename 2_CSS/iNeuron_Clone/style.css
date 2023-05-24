@@ -6,9 +6,9 @@
     padding: 0;
     outline: 0;
     box-sizing: border-box;
-    background-color: #fbfeff;
+    /* background-color: #fbfeff; */
     font-family: 'Chakra Petch', sans-serif;
-    color: var(--primary-color);
+    /* color: var(--primary-color); */
 }
 img {
     height: auto;
@@ -117,4 +117,75 @@ img {
 }
 .navlink{
     text-decoration: none;
+}
+
+/* Footer****************************/
+footer{
+    background-color: #233c7b;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* margin: 20px 0; */
+    padding: 50px  0px;
+}
+.footer_company-info{
+    width: 25vw;
+}
+.footer_company-info img{
+    width: 200px;
+}
+.footer_company-links{
+    width: 25vw;
+}
+.footer_product-links{
+    width: 25vw;
+
+}
+.footer_company-socials{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.footer_company-socials img{
+    background-color: var(--primary-color);
+    width: 25px;
+    margin: 3px 3px;
+    justify-content: space-between;
+}
+.footer_title h5{
+    color: #fff;
+    font-size: 30px;
+}
+.footer_border{
+    width: 17rem;
+    margin-top: 1rem;
+    margin-bottom: 25px;
+    color: #f7a654;
+    border: 2px solid #f7a654;
+    background-color: #f7a654;
+}
+.footer_footer-location, .footer_company-list{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #fff;
+}
+.footer_footer-location img{
+    height: 20px;
+    width: 20px;
+    margin: 15px;
+}
+.footer_footer-certification img{
+    height: 100px;
+    width: 100px;
+    margin: 10px 50px;
+}
+.footer_footer-certification p{
+    color: #fff;
+    margin: 0 65px;
+}
+.footer_product-list ul, .footer_company-list ul{
+    font-size: 17px;
+    margin: 5px;
+    color: #fff;
 }
